@@ -12,3 +12,5 @@
 7. Paste ```https://github.com/stylinnile/VMSMP/releases/download/release/Vibes.Modded.SMP.2026.1.0.0.mrpack``` into the url then click import.
 
 8. Congratulations. You have installed VMSMP. Click play to play. 
+
+The IP to join is 172.1.144.173
