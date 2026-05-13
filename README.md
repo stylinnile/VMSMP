@@ -5,7 +5,7 @@
    
 3. Install ATLAUNCHER if you have not already. Open the file that downloads and follow the setup wizard. ATLAUNCHER will open once the setup is complete.
    
-5. Add you Microsoft account if you have not already. Click ACCOUNTS on the left, then click 'Sign in with Microsoft'. Then click 'log in with browser'. A link in your browser will open. Sign in to your Microsoft account. Once done, go back to ATLAUNCHER. You should see your Minecraft account at the bottom of the screen now. You should only need to do this once (in a while)
+5. Add your Microsoft account if you have not already. Click ACCOUNTS on the left, then click 'Sign in with Microsoft'. Then click 'log in with browser'. A link in your browser will open. Sign in to your Microsoft account. Once done, go back to ATLAUNCHER. You should see your Minecraft account at the bottom of the screen now. You should only need to do this once (in a while)
 
 6. Install the modpack. Click INSTANCES. then click IMPORT at the top left.
 
