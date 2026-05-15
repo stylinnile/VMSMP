@@ -9,7 +9,7 @@
 
 6. Install the modpack: Click INSTANCES. then click IMPORT at the top left.
 
-7. Paste ```https://github.com/stylinnile/VMSMP/releases/download/v1.1.0/Vibes.Modded.SMP.2026.1.1.0.mrpack``` into the url then click import.
+7. Paste ```https://github.com/stylinnile/VMSMP/releases/download/v1.4/Vibes.Modded.SMP.2026.1.4.mrpack``` into the url then click import.
 
 8. Congratulations. You have installed VMSMP. Click play to play. 
 
